@@ -1,1 +1,2 @@
-#openmonkey eu
+The openmonkey project.
+Live @ openmonkey.eu
